@@ -9,6 +9,7 @@ namespace Assignment_OOP02
     public class HireDate
     {
 
+
         public int Day { get; set; }
         public int Month { get; set; }
         public int Year { get; set; }
